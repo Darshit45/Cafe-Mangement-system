@@ -1,7 +1,6 @@
-/* Aaron Abraham
- * Ms. Dalal
- * Final Project - Grade 11
- * */
+/* Darshit Vora
+RUID 199001282
+*/
 
 // Including libraries
 #include <iostream>
